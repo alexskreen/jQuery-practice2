@@ -1,0 +1,16 @@
+
+#hidden {
+  display: none;
+}
+
+.button {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.button:hover {
+  text-decoration: underline;
+}
+.button:hover{
+  text-decoration: underline;
+}
